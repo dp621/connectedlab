@@ -13,3 +13,7 @@ To Run:
 
 To simulate a short path distillation system:
 - node mqtt2influx/spd_test.js
+
+Hardware MQTT Protocol:
+- Topic: 'labData'
+- Data Format: {"device":"<name>", "val":<val>, "unit":"<unit>"}
