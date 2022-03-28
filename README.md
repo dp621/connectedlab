@@ -9,6 +9,7 @@ Software comes preconfigured with a distillation dashboard as seen below:
 To Run:
 - Install docker & docker-compose
 - docker-compose up
+- Open browser to http://localhost:3000
 
 To simulate a short path distillation system:
 - node mqtt2influx/spd_test.js
