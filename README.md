@@ -11,4 +11,4 @@ To Run:
 - docker-compose up
 
 To simulate a short path distillation system:
-- node spd_test.js
+- node mqtt2influx/spd_test.js
